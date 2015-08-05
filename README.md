@@ -1,0 +1,1 @@
+一个用boost实现的http client，用到了GET和POST两种方式，VS2010
